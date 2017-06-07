@@ -1,8 +1,8 @@
 # XMGBPhotoBrower
 
-##网页图片浏览器
+## 网页图片浏览器
 
-#How To Used
+# How To Used
 
 1. 首先导入`SDPhotoBrowser`和`SDWebImage`两个框架（如果有了就不需要了）
 2. 拖入`XMGPhotoBrowerWebView`文件到项目中
