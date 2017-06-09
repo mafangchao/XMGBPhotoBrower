@@ -37,7 +37,7 @@
     
     _textFiled = [[UITextField alloc] init];
     _textFiled.backgroundColor = [UIColor lightGrayColor];
-    _textFiled.text = @"http://api.cyzone.cn/679/311497.html";
+    _textFiled.text = @"http://api.cyzone.cn/22/311643.html";
     [self.view addSubview:_textFiled];
     _textFiled.frame = CGRectMake(20, 20, kScreenWidth - 100, 40);
     
@@ -52,7 +52,7 @@
     _webview.webViewDelegate = self;
     [self.view addSubview:_webview];
 
-
+//    http://www.jianshu.com/p/0fc864cee3bb
 
 }
 
